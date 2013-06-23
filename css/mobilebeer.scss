@@ -1,4 +1,44 @@
-.footer{
+body{
+  background: #F0F0F0;
+  direction: rtl;
+}
+
+.eng{
+  direction: ltr;
+}
+
+.header{
+  margin: 0;
+  font-size: 4em;
+  overflow: hidden;
+  height: 200px;
+  line-height: 200px;
+  .logo, .title{
+    float: right;
+  }
+  .title{
+    margin-right: 1em;
+    a{
+      color: #444;
+    }
+  }
+}
+
+.logo{
+  background-image: url('/images/logo.png');
+  background-size: 100%;
+  width: 150px;
+  height: 192px;
+}
+
+.site .footer{
+  border-color: #C4C4C4;
+
+  .contacts{
+    width: 400px;
+    margin: 0 auto;
+
+  }
   .contact{
     p > *{
       display: block;

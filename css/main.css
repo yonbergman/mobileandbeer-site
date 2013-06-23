@@ -26,8 +26,8 @@ h1 { margin-bottom: 1em; }
 p { margin: 1em 0; }
 
 a         { color: #00a; }
-a:hover   { color: #000; }
-a:visited { color: #a0a; }
+/*a:hover   { color: #000; }*/
+/*a:visited { color: #a0a; }*/
 
 table {
   font-size: inherit;
@@ -76,10 +76,6 @@ ul.posts span {
 .site .header h1.title {
   display: inline-block;
   margin-bottom: 2em;
-}
-
-.site .header h1.title a {
-  color: #a00;
 }
 
 .site .header h1.title a:hover {
