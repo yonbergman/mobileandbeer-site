@@ -3,9 +3,9 @@ layout: post
 title:  "פרק ראשון - סירי קחי אותי לבני-ברק!"
 date:   2013-06-21 13:39:58
 categories: episode ios
-duration: 18:24
-length: 17068092
-link: http://pubpodcast.s3.amazonaws.com/pub014.mp3
+duration: 40:46
+length: 58709390
+link: https://dl.dropboxusercontent.com/u/15155346/MobileAndBeer_Ep01.mp3
 ---
 
 גם אנחנו רוצים לדבר על iOS 7! העלינו נקודות מעניינות מהשינויים שקרו ושרצינו אבל לא קרו, ועל חלק מההשפעות של הדברים שהוכרזו ב-WWDC עלינו כמפתחים וכלקוחות אפל.
