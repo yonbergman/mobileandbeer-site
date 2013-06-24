@@ -1,0 +1,77 @@
+---
+layout: nil
+---
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+<channel>
+
+<title>מובייל ובירה</title>
+
+<link>http://www.mobileandbeer.com/</link>
+
+<language>he</language>
+
+<copyright>&#xA9; 2013 Yoni Tsafir, Aviv Ben-Yosef &amp; Yonatan Bergman</copyright>
+
+<itunes:subtitle>פודקאסט בנושאי פיתוח מובייל iOS, Android &amp; Web</itunes:subtitle>
+
+<itunes:author>Yoni Tsafir, Aviv Ben-Yosef &amp; Yonatan Bergman</itunes:author>
+
+<itunes:keywords>ios, android, web, development, developers, beer</itunes:keywords>
+
+<itunes:summary>פודקאסט על פיתוח אפליקציות למכשירים ניידים באמצעות כל הכלים שעומדים לרשותינו - ובירה</itunes:summary>
+
+<description>פודקאסט על פיתוח אפליקציות למכשירים ניידים באמצעות כל הכלים שעומדים לרשותינו - ובירה</description>
+
+<itunes:owner>
+
+<itunes:name>Yoni Tsafir</itunes:name>
+
+<itunes:email>contact@mobileandbeer.com</itunes:email>
+
+</itunes:owner>
+
+<itunes:image href="http://www.mobileandbeer.com/assets/itunes.jpg" />
+
+<itunes:category text="Technology" />
+
+<itunes:category text="Tech News" />
+
+<itunes:category text="Software How-To" />
+
+<itunes:new-feed-url>http://www.mobileandbeer.com/podcast.xml</itunes:new-feed-url>
+
+ {% for post in site.posts limit:10 %}
+
+ <item>
+
+ <title>{{ post.title }}</title>
+
+ <itunes:author>Yoni Tsafir, Aviv Ben-Yosef &amp; Yonatan Bergman</itunes:author>
+
+ <itunes:subtitle>מובייל ובירה: {{ post.title }}</itunes:subtitle>
+
+ <itunes:summary>{{ post.content | xml_escape }}</itunes:summary>
+
+ <itunes:image href="http://www.fromthepub.com/assets/itunes.jpg" />
+
+ <enclosure url="{{ post.link }}" length="{{ post.length }}" type="audio/x-m4a" />
+
+ <guid>{{ post.link }}</guid>
+
+ <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S" }} GMT</pubDate>
+
+ <itunes:duration>{{ post.duration }}</itunes:duration>
+
+ <itunes:keywords>ios, android, web, development, developers, beer</itunes:keywords>
+
+ </item>
+
+ {% endfor %}
+
+</channel>
+
+</rss>
