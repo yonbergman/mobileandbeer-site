@@ -1,2 +1,3 @@
 name: 'מובייל ובירה'
 pygments: true
+exclude: ["vendor"]
