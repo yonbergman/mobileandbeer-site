@@ -5,57 +5,73 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <title>{{ page.title }}</title>
     <meta name="viewport" content="width=device-width">
-
-    <!-- syntax highlighting CSS -->
-    <link rel="stylesheet" href="/css/syntax.css">
-
-    <!-- Custom CSS -->
-    <link rel="stylesheet" href="/css/main.css">
+    <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
     <link rel="stylesheet" href="/css/mobilebeer.css">
-
 </head>
 <body>
-
 <div class="container">
     <div class="site">
         <div class="header">
             <div class='logo'></div>
-            <h1 class="title"><a href="/">{{ site.name }}</a></h1>
+            <div class='titles'>
+                <h1 class="title"><a href="/">{{ site.name }}</a></h1>
+                <h2 class='subtitle'>
+                        פודקאסט בנושאי פיתוח מובייל
+                        iOS, Android & Web
+                </h2>
+
+            </div>
         </div>
-
         {{ content }}
-
         <div class="footer">
-            <p>
-                פודקאסט בנושאי פיתוח מובייל
-                iOS, Android & Web
-            </p>
+
             <div class='contacts'>
+                <h2>מי אנחנו</h2>
                 <div class='contact eng'>
-                    <p>
+                    <img src='/images/yoni.jpg'/>
+                    <div class='info'>
                         <strong>Yoni Tsafir</strong>
                         <a href='https://twitter.com/theyonibomber'>@theyonibomber</a>
-                        <img src='/images/yoni.jpg'></img>
-                    </p>
+                        <p class='blurb'>
+                            מפתח אפליקציות לימוד נגינה לאייפד ואייפון בחברת JoyTunes
+                        </p>
+                    </div>
                 </div>
                 <div class='contact eng'>
-                    <p>
+                    <img src='/images/aviv.jpg'/>
+                    <div class='info'>
                         <strong>Aviv Ben-Yosef</strong>
                         <a href='https://twitter.com/avivby'>@avivby</a>
-                        <img src='/images/aviv.jpg'></img>
-                    </p>
+                        <p class='blurb'>
+                                                    מפתח אפליקציות לימוד נגינה לאייפד ואייפון בחברת JoyTunes
+                                                </p>
+                    </div>
                 </div>
                 <div class='contact eng'>
-                    <p>
+                    <img src='/images/yon.jpg'/>
+                    <div class='info'>
                         <strong>Yonatan Bergman</strong>
                         <a href='https://twitter.com/yonbergman'>@yonbergman</a>
-                        <img src='/images/yon.jpg'></img>
-                    </p>
+                        <p class='blurb'>
+                                                    מפתח אפליקציות לימוד נגינה לאייפד ואייפון בחברת JoyTunes
+                                                </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class='contact-us'>
+                <h2>צרו קשר</h2>
+                <div class='links'>
+                    <i class='icon-twitter'></i>
+                    <a href='https://twitter.com/mobileandbeer'>@mobileandbeer</a>
+                    <span class='sep'>•</span>
+                    <i class='icon-envelope'></i>
+                    <a href='javascript:;'>contact<strong>@</strong>mobileandbeer.com</a>
                 </div>
             </div>
         </div>
     </div>
-</div> <!-- /container -->
+</div>
 
 </body>
 </html>

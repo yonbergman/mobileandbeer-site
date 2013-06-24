@@ -1,6 +1,25 @@
+@import 'syntax.css';
+@import 'main.css';
+
+@import url(http://fonts.googleapis.com/earlyaccess/alefhebrew.css);
+@mixin mobile {
+  @media screen and (max-width: 700px) {
+    @content;
+  }
+}
+
+$alef-font: "Alef Hebrew", "Helvetica Neue", Helvetica, Arial, sans-serif;
+
 body{
   background: #F0F0F0;
   direction: rtl;
+}
+
+.site{
+  @include mobile{
+    width: 300px;
+    font-size: 100%;
+  }
 }
 
 .eng{
@@ -8,19 +27,38 @@ body{
 }
 
 .header{
-  margin: 0;
-  font-size: 4em;
+  font-family: $alef-font;
+  margin: 0 0 10px 0;
   overflow: hidden;
+  font-size: 5.2em;
   height: 200px;
-  line-height: 200px;
-  .logo, .title{
+  @include mobile{
+    height: 65px;
+  }
+
+  .logo, .titles{
     float: right;
   }
-  .title{
-    margin-right: 1em;
-    a{
-      color: #444;
+  .titles{
+    margin-top: 40px;
+    margin-right: 0.5em;
+    h1,h2{
+      line-height: 100%;
+      margin: 0;
+      font-weight: normal;
     }
+    @include mobile{
+      font-size: 62%;
+      margin-top: 10px;
+    }
+  }
+  h1 a{
+    color: #444;
+    font-weight: normal;
+  }
+  h2{
+    font-size: 0.23em;
+    color: #868686;
   }
 }
 
@@ -29,19 +67,77 @@ body{
   background-size: 100%;
   width: 150px;
   height: 192px;
+  @include mobile{
+    width: 50px;
+    height: 64px;
+  }
 }
 
 .site .footer{
-  border-color: #C4C4C4;
+  background: #e9e9e9;
+  border: none;
+  padding: 10px;
 
-  .contacts{
-    width: 400px;
-    margin: 0 auto;
+  h2{
+    font-size: 1.5em;
+  }
+
+  .contact{
+    float: none;
+    margin: 0.5em 0;
+    overflow: hidden;
+    text-align: left;
+
+    strong{
+      font-size: 1.3em;
+    }
+    .blurb{
+      margin: 0.2em 0;
+      direction: rtl;
+    }
+    img{
+      float: left;
+      margin-right: 10px;
+    }
+    a{
+      text-decoration: none;
+      color: #929292;
+    }
+
+    .info{
+      margin: 0.3em 0;
+    }
+
+
+    &:nth-child(2n+1){
+      img{
+        float: right;
+        margin: 0 0 0 10px;
+      }
+      text-align: right;
+    }
 
   }
-  .contact{
-    p > *{
-      display: block;
+  .contact-us{
+    border-top: 1px solid #888;
+    margin-top: 10px;
+    padding-top: 10px;
+    .links{
+      direction: ltr;
+      text-align: center;
+      font-size: 1.2em;
+      a{
+        text-decoration: none;
+      }
+      .sep{
+        margin: 0 5px;
+        @include mobile{
+          display: block;
+        }
+      }
+      i,a{
+        color: #445588;
+      }
     }
   }
 }

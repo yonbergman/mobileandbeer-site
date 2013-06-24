@@ -69,13 +69,7 @@ ul.posts span {
 }
 
 .site .header a {
-  font-weight: bold;
   text-decoration: none;
-}
-
-.site .header h1.title {
-  display: inline-block;
-  margin-bottom: 2em;
 }
 
 .site .header h1.title a:hover {
