@@ -5,7 +5,7 @@ date:   2013-06-21 13:39:58
 tags: episode ios
 duration: 40:46
 length: 58709390
-link: https://dl.dropboxusercontent.com/u/15155346/MobileAndBeer_Ep01.mp3
+link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep01.mp3
 ---
 
 גם אנחנו רוצים לדבר על iOS 7! העלינו נקודות מעניינות מהשינויים שקרו ושרצינו אבל לא קרו, ועל חלק מההשפעות של הדברים שהוכרזו ב-WWDC עלינו כמפתחים וכלקוחות אפל.
