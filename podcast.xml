@@ -34,7 +34,7 @@ layout: nil
 
 </itunes:owner>
 
-<itunes:image href="http://www.mobileandbeer.com/assets/itunes.jpg" />
+<itunes:image href="http://www.mobileandbeer.com/images/itunes.jpg" />
 
 <itunes:category text="Technology" />
 
@@ -56,7 +56,7 @@ layout: nil
 
  <itunes:summary>{{ post.content | xml_escape }}</itunes:summary>
 
- <itunes:image href="http://www.fromthepub.com/assets/itunes.jpg" />
+ <itunes:image href="http://www.mobileandbeer.com/images/itunes.jpg" />
 
  <enclosure url="{{ post.link }}" length="{{ post.length }}" type="audio/x-m4a" />
 
