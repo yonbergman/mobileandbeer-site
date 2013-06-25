@@ -54,7 +54,7 @@ layout: nil
 
  <itunes:subtitle>מובייל ובירה: {{ post.title }}</itunes:subtitle>
 
- <itunes:summary>{{ post.content | xml_escape }}</itunes:summary>
+ <itunes:summary>{{ post.content | to_string }}</itunes:summary>
 
  <itunes:image href="http://www.mobileandbeer.com/images/itunes.jpg" />
 
