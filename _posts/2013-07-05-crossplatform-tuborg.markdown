@@ -15,24 +15,27 @@ link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer02.mp3
 **הבירה** - טובורג לבד בבית
 את הפרק הזה הקלטנו כל אחד בביתו ולכן כל אחד שתה בקבוק טובורג לבד, אבל ביחד.
 
-**לינקים**
+## לינקים
 
-אפליקציות:   
-[PhoneGap](http://phonegap.com/) 
-[Titanium](http://www.appcelerator.com/platform/titanium-platform/ )
-[Sencha Touch](http://www.sencha.com/products/touch)  
-[jQuery Mobile](http://jquerymobile.com/) 
-[Mono Touch (Xamarin)](http://xamarin.com/monotouch)
+**אפליקציות**
 
-משחקים:   
-[Flash + Adobe Air](http://www.adobe.com/products/air.html ) 
-[Starling (sparrow for flash)](http://gamua.com/starling/)  
-[cocos 2dx](http://www.cocos2d-x.org/) 
-[Unity 3D](http://unity3d.com/)  
-[Marmalade](http://www.madewithmarmalade.com/) 
+* [PhoneGap](http://phonegap.com/)
+* [Titanium](http://www.appcelerator.com/platform/titanium-platform/ )
+* [Sencha Touch](http://www.sencha.com/products/touch)
+* [jQuery Mobile](http://jquerymobile.com/)
+* [Mono Touch (Xamarin)](http://xamarin.com/monotouch)    
 
-שאר דברים:   
-[Joysofcode.com Programming GIFS](http://thejoysofcode.com/)  
-[Rovio Accounts](http://www.rovio.com/en/news/blog/292/pick-up-your-game-where-you-left-off-%E2%80%93-across-devices/) 
-[Google Play Game Services](http://developer.android.com/google/play-services/games.html)  
-[Feedly (Google Reader Alt.)](feedly.com)
+**משחקים**  
+
+* [Flash + Adobe Air](http://www.adobe.com/products/air.html )    
+* [Starling (sparrow for flash)](http://gamua.com/starling/)     
+* [cocos 2dx](http://www.cocos2d-x.org/) 
+* [Unity 3D](http://unity3d.com/)  
+* [Marmalade](http://www.madewithmarmalade.com/) 
+
+**שאר דברים**   
+
+* [Joysofcode.com Programming GIFS](http://thejoysofcode.com/)  
+* [Rovio Accounts](http://www.rovio.com/en/news/blog/292/pick-up-your-game-where-you-left-off-%E2%80%93-across-devices/) 
+* [Google Play Game Services](http://developer.android.com/google/play-services/games.html)  
+* [Feedly (Google Reader Alt.)](feedly.com)
