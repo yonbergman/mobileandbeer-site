@@ -5,7 +5,7 @@ date:   2013-07-05 11:12:58
 tags: episode ios android games
 duration: 39:45
 length: 57223576
-link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep02.mp3
+link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer02.mp3
 ---
 
 השבוע אנחנו מדברים על קרוספלטפורם או איך לכתוב פעם אחת ושהאפליקציה תרוץ בכמה פלטפורמות.
