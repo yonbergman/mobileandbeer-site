@@ -24,6 +24,7 @@ link: http://bit.ly/mobileandbeer3
 * [Ray Wenderlich | Tutorials for iPhone / iOS Developers and Gamers](http://www.raywenderlich.com/)
 * [Maniac Dev](http://maniacdev.com/)
 * [iOS Dev Weekly - Free weekly iOS development newsletter](http://iosdevweekly.com/)
+* [Cocoa Controls](https://www.cocoacontrols.com/)
 
 **אנדרואיד**  
 
@@ -33,6 +34,13 @@ link: http://bit.ly/mobileandbeer3
 * [המדריכים הרשמיים](http://developer.android.com/training/index.html)
 * [Android Dev Weekly](http://androiddevweekly.com/)
 * [Android Weekly](http://androidweekly.net/)
+
+**ווב**
+
+* [Why Mobile Web Apps Are Slow](http://sealedabstract.com/rants/why-mobile-web-apps-are-slow/)
+* [How I Built HN Mobile Web App](http://cheeaun.com/blog/2012/03/how-i-built-hacker-news-mobile-web-app)
+* [jQuery Mobile Docs](http://view.jquerymobile.com/1.3.2/dist/demos/)
+* [Sencha Touch Docs](http://docs.sencha.com/touch)
 
 **שאר דברים**   
 
