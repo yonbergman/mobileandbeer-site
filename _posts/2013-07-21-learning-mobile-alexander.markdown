@@ -5,7 +5,7 @@ date:   2013-07-05 11:12:58
 tags: episode ios android learning
 duration: 43:54
 length: 63224603
-link: http://bit.ly/mobileandbeer3
+link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep03.mp3
 ---
 
 השבוע אנחנו מדברים על איך אנחנו למדנו לפתח למובייל: אילו משאבים מומלצים לפלטפורמות השונות ואיך אנחנו נשארים מעודכנים עם חדשות רלוונטיות.
