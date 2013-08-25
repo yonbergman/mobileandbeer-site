@@ -23,7 +23,6 @@ link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep05.mp3
 * [itc.cli](https://github.com/kovpas/itc.cli)
 * [Plants vs Zombies 2](http://www.popcap.com/plants-vs-zombies-2)
 * [Coffee.Spec](www.coffeespec.com)
-* [Plants vs Zombies 2](http://www.popcap.com/plants-vs-zombies-2)
 * [Rails Bugmash TLV - פרטים והרשמה](smore.com/fqbc-rails-bugmash-tlv)
 
 
