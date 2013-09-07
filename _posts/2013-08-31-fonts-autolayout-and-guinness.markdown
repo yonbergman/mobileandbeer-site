@@ -27,3 +27,4 @@ link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep06.mp3
 לא לשכוח להקדיש 2 דקות לדרג אותנו ב- iTunes, לספר על הפודקאסט ל- 2 חברים שלכם, ולעקוב אחרינו בטוויטר
 
 
+שנה טובה מכולנו!
