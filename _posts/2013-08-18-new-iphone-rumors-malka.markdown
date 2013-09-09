@@ -22,8 +22,8 @@ link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep05.mp3
 * [המדריך המהיר לApple Transporter](https://itunesconnect.apple.com/WebObjects/iTunesConnect.woa/wo/3.0.7.3.0.9.3.15.11.17.0.3.3.3.1.1.1)
 * [itc.cli](https://github.com/kovpas/itc.cli)
 * [Plants vs Zombies 2](http://www.popcap.com/plants-vs-zombies-2)
-* [Coffee.Spec](www.coffeespec.com)
-* [Rails Bugmash TLV - פרטים והרשמה](smore.com/fqbc-rails-bugmash-tlv)
+* [Coffee.Spec](http://www.coffeespec.com)
+* [Rails Bugmash TLV - פרטים והרשמה](http://smore.com/fqbc-rails-bugmash-tlv)
 
 
 
