@@ -3,8 +3,8 @@ layout: post
 title:  "פרק שבע מיוחד - אירוע ההשקה של האייפונים החדשים ופאבו"
 date:   2013-09-10 21:00:00
 tags: episode ios iphone-s iphone-c iphone apple samsung kitkat
-duration: 39:42
-length: 38120721
+duration: 36:18
+length: 34845175
 link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep07.mp3
 ---
 
@@ -28,4 +28,4 @@ link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep07.mp3
 * [KitKat.com](http://kitkat.com/)
 * [Samsung Gear](http://www.samsungmobilepress.com/2013/09/04/GALAXY-Gear-1)
 
-לא לשכוח להקדיש 2 דקות לדרג אותנו ב- iTunes, לספר על הפודקאסט ל- 2 חברים שלכם, ולעקוב אחרינו בטוויטר
+לא לשכוח להקדיש 2 דקות לדרג אותנו ב- iTunes, לספר על הפודקאסט ל- 2 חברים שלכם, ולעקוב אחרינו בטוויטר!
