@@ -20,6 +20,7 @@ link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep12.mp3
 * [וידאו באפ-סטור?](http://www.macstories.net/news/video-trailers-debut-on-the-app-store-with-clumsy-ninja/)
 * [אנדרואיד 4.4 מגיע בלי דפדפן](http://www.unwiredview.com/2013/11/21/android-4-4-kitkat-ships-without-browser-app-oems-have-to-license-chrome-or-build-their-own/)
 * [Genymotion - אמולטור מהיר יותר לאנדרואיד](http://www.genymotion.com)
+* [הרצאה על Reverse Engineering לאפליקציות iOS](http://cocoaheads.tv/an-interesting-approach-to-reverse-engineering-apps-by-chris-stroud/)
 
 ####תשתיות כלליות
 * [Mixpanel Mobile](https://mixpanel.com/)
