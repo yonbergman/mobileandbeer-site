@@ -19,6 +19,7 @@ link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep13.mp3
 
 * [IB inside Appcode](http://blog.jetbrains.com/objc/2013/12/ui-designer-plugin-for-appcode-is-available-in-early-preview/)
 * [ריצ׳רד ברטל מדבר על סוציאל גיימס](http://www.gamasutra.com/view/news/35551/Gamelab_2011_MUD_Creator_Bartle_Current_Social_Games_Are_Not_Fun.php)
+* [הבלוג של אחד ממפתחי Vesper](http://www.inessential.com)
 
 #### האפליקציות של 2013
 * [Badland](https://itunes.apple.com/en/app/badland/id535176909?mt=8)
