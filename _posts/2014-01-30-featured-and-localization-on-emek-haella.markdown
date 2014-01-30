@@ -16,7 +16,7 @@ link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep15.mp3
 ## לינקים         
 
 * [iOS Language Cheat Sheet](http://david-smith.org/languages/)
-* [Making You App World-Ready (WWDC)](https://developer.apple.com/wwdc/videos/?id=219)
+* [Making Your App World-Ready](https://developer.apple.com/wwdc/videos/?id=219)
 * [איך מבטאים הלווטיקה נויה?](http://gawker.com/are-you-shamefully-mispronouncing-helvetica-yes-you-990723958)
 * [המשחק שיון עבד עליו בגלובל גיים ג׳אם](http://www.youtube.com/watch?v=3RS3YdxD7-U)
 * [ההבדל בין לוקליזציה ואינטרנשיונליזציה](http://blog.mozilla.org/l10n/2011/12/14/i18n-vs-l10n-whats-the-diff/)
