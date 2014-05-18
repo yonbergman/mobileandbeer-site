@@ -15,8 +15,7 @@ link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep20.mp3
 
 ## לינקים         
 
-* [מקום טוב](https://itunes.apple.com/il/app/makom-tov-krtysym-lsrtym-bmqwmwt/id867605613?mt=8
-)
+* [מקום טוב](https://itunes.apple.com/il/app/makom-tov-krtysym-lsrtym-bmqwmwt/id867605613?mt=8)
 * [Sensor Tower](https://sensortower.com)
 * [iTunes Connect CLI](https://github.com/kovpas/itc.cli)
 * [F8 Summary](http://techcrunch.com/2014/05/02/f8/) 
