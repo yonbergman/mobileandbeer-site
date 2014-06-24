@@ -3,8 +3,8 @@ layout: post
 title:  "פרק 22 - החיים אחרי WWDC, אמזון מצטרפת לתחרות ועדכונים"
 date:   2014-06-24 09:00:00
 tags: episode ios wwdc android amazon fire firefly
-duration: 63:10
-length: 60636601
+duration: 47:53
+length: 45966234
 link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep22.mp3
 ---
 
