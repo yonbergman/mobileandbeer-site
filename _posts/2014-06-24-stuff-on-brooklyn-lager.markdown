@@ -28,6 +28,7 @@ link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep22.mp3
 
 ## לינקים
 
+* [עמוד הפייסבוק החדש שלנו](https://www.facebook.com/mobileandbeer)
 * [Apple Partly Lifted NDA](http://oleb.net/blog/2014/06/apple-lifted-beta-nda/)
 * [WWDC 2014 Sessions Videos](https://developer.apple.com/videos/wwdc/2014/)
 * [Using Swift with Cocoa and Objective-C iBook](https://itunes.apple.com/us/book/using-swift-cocoa-objective/id888894773?mt=11)
@@ -38,4 +39,4 @@ link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep22.mp3
 
 
 
-לא לשכוח להקדיש 2 דקות לדרג אותנו ב- iTunes, לספר על הפודקאסט ל- 2 חברים שלכם, ולעקוב אחרינו בטוויטר!
+לא לשכוח להקדיש 2 דקות לדרג אותנו ב- iTunes, לספר על הפודקאסט ל- 2 חברים שלכם, לעשות לייק בפייסבוק ולעקוב אחרינו בטוויטר!
