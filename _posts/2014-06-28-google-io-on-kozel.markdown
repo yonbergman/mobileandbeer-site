@@ -24,7 +24,7 @@ link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep23.mp3
 * [Android Auto](http://www.android.com/auto/)
 * [Everything You Need to Know about Google's IO Keynote](http://www.wired.com/2014/06/google-io-keynote/)
 * [Google IO 2014 Highlight Reel](http://mobile.theverge.com/2014/6/25/5843146/google-io-2014-highlight-reel)
-* [Everything new on Reddit](http://www.reddit.com/r/Android/comments/2927iq/google_io_2014_discussion_thread/)
+* [Everything new from Reddit](http://www.reddit.com/r/Android/comments/2927iq/google_io_2014_discussion_thread/)
 * [Swift Toolbox](http://www.swifttoolbox.io)
 * [Dollar.swift](https://github.com/ankurp/Dollar.swift)
 * [SwiftyJSON](https://github.com/lingoer/SwiftyJSON)
