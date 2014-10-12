@@ -15,11 +15,6 @@ link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep27.mp3
 
 ![](/images/mta_beer.jpg)
 
-**החולצה**  
-אז מסתבר שיש לנו גם כזאת!
-
-![](/images/shirt.png)
-
 ## לינקים
 
  * [How Display Zoom really works](http://daringfireball.net/2014/09/the_iphones_6)
