@@ -15,6 +15,10 @@ link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep28.mp3
 **הבירה** - Estrella Damm  
 בירה בהירה ונחמדה מברצלונה. המילה אסטרייה בספרדית היא ״כוכב״ ולמעשה הבירה הזו היא מעיין הגולדסטאר של ברצלונה!
 
+**החולצות**  
+
+<img src="/images/shirts.jpg" alt="Us in shirts" width="600" />
+
 ## לינקים
 
  * [Global Day of Code Retreat 2014](http://www.coderetreat.co.il/2014)
@@ -25,5 +29,6 @@ link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep28.mp3
  * [iPad Air 2](http://www.apple.com/ipad-air-2/)
  * [iPad Mini 3](http://www.apple.com/ipad-mini-3/)
  * [Apple Sim](http://online.wsj.com/articles/apples-real-ipad-surprise-a-sim-card-that-lets-users-swap-data-plans-1413570034)
+ * [KZBootstrap](https://github.com/krzysztofzablocki/KZBootstrap)
 
 לא לשכוח להקדיש 2 דקות לדרג אותנו ב- iTunes, לספר על הפודקאסט ל- 2 חברים שלכם, לעשות לייק בפייסבוק ולעקוב אחרינו בטוויטר!
