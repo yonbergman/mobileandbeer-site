@@ -21,6 +21,7 @@ link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep30.mp3
  * [Yoni's post about Swift](http://codesheriff.blogspot.co.il/2014/12/why-i-think-swift-is-not-ready-yet.html)
  * [Ash Furrow's post about Swift](http://artsy.github.io/blog/2014/11/13/eidolon-retrospective/)
  * [AppCode 3.1](http://blog.jetbrains.com/objc/2014/12/appcode-3-1-released/)
+ * [Swift Infographics](http://blog.jetbrains.com/objc/2014/12/swift-community-infographics/)
  * [Microsoft buys HockeyApp](http://www.androidcentral.com/microsoft-buys-hockeyapp-help-expand-its-support-android-app-developers)
  * [Workflow app](https://workflow.is) and [epic review](http://www.macstories.net/reviews/workflow-review-integrated-automation-for-ios-8/)
  * [Google Cardboard Apps](http://www.pcmag.com/article2/0%2c2817%2c2473507%2c00.asp)
