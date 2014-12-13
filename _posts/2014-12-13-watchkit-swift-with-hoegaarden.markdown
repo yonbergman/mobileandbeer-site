@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "פרק 30 - שעונים, סוופיט ועדכונים על הוגרדן"
+title:  "פרק 30 - שעונים, סוויפט ועדכונים על הוגרדן"
 date:   2014-12-13 20:00:00
 tags: episode watchkit swift apple appstore ios
 duration: 56:55
@@ -9,7 +9,7 @@ link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep30.mp3
 
 ---
 
-פרק עם עדכונים רבים על WatchKit, חוויות וטרוניות על סוופיט, בלאגן בגן המוגן של אפל ועוד.
+פרק עם עדכונים רבים על WatchKit, חוויות וטרוניות על סוויפט, בלאגן בגן המוגן של אפל ועוד.
 
 **הבירה** - Hoegaarden  
 כי בירה שמיוצרת מימי הביניים ומוגשת בכזו כוס חייבים לאהוב.
