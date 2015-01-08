@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "פרק 31 - נבחרי השנה 2014"
+date:   2015-01-08 15:00:00
+tags: episode apple ios android 2014
+duration: 34:33
+length: 33173756
+link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep31.mp3
+
+---
+
+פרק מיוחד שבו כל אחד מאיתנו בחר את נבחרי השנה שלו בכל מיני קטגוריות
+
+**הבירה** - St. Bernardus Christmas Ale  
+בירה שנבחרה במיוחד לתקופה הזו של השנה.
+
+|נושא|יוני|אביב|יון|
+|----:|----:|----:|---:|
+|אפליקציית השנה|[1Password](https://itunes.apple.com/il/app/1password-password-manager/id568903335?mt=8&at=11lQcA&ct=workflow)|[Overcast](https://itunes.apple.com/il/app/overcast-podcast-player/id888422857?mt=8&at=11lQcA&ct=workflow)|[Discount bank](https://itunes.apple.com/il/app/discount-bank-bnq-dysqwnt/id342173691?mt=8&at=11lQcA&ct=workflow)|
+|משחק השנה|[Hearthstone](https://itunes.apple.com/il/app/hearthstone-heroes-warcraft/id625257520?mt=8&uo=4&at=11lQcA&ct=)|[Threes](https://itunes.apple.com/il/app/threes!/id779157948?mt=8&at=11lQcA&ct=workflow)|[Threes](https://itunes.apple.com/il/app/threes!/id779157948?mt=8&at=11lQcA&ct=workflow)|
+|pod|[BlocksKit](https://github.com/zwaldowski/BlocksKit)|[$](http://www.dollarswift.org)|[Helios](http://helios.io)|
+|גאדג׳ט השנה|[iPad Air 2](http://www.apple.com/ipad-air-2/)|[Anker Battery](http://www.amazon.com/gp/product/B009USAJCC/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B009USAJCC&linkCode=as2&tag=thcodu02-20&linkId=EPTCYXLPSUN5N7QH)|[Arq Nesting Dock](http://www.idownloadblog.com/2014/02/28/arq-the-nested-dock-that-keeps-on-docking/)|
+|קטע השנה|כשהבירה של יוני נשפכה|כשנשפכה ליוני בירה על המקלדת|כשיוני לא הצליח לפתוח בירה|
+|בירת השנה|[MTA](http://www.globes.co.il/news/article.aspx?did=1000966379)|[Estrella](https://en.wikipedia.org/wiki/Estrella_Damm)|[St. Bernardus Christmas Ale](http://www.ratebeer.com/beer/st-bernardus-christmas-ale/65814/)|
+
+לא לשכוח להקדיש 2 דקות לדרג אותנו ב- iTunes, לספר על הפודקאסט ל- 2 חברים שלכם, לעשות לייק בפייסבוק ולעקוב אחרינו בטוויטר!
