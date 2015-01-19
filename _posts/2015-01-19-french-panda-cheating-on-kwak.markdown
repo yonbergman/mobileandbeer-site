@@ -30,7 +30,7 @@ link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep32.mp3
 * [YotaPhone2 - Android with eInk back](http://www.androidcentral.com/e-ink-paradise-flip-side-yotaphone-2)
 * [iPhone Home button joystick](http://www.macrumors.com/2015/01/15/iphone-home-button-joystick/)
 * [Google Glass spinoff](http://www.aol.com/article/2015/01/15/google-to-stop-consumer-sales-of-glass-to-redesign-device/21130515/)
-* [Global Game Jam 2015](http://globalgamejam.org/2014/jam-sites?country=IL)
+* [Global Game Jam 2015](http://globalgamejam.org/2015/jam-sites?country=IL)
 * [Agile Practitioners Israel](http://apilconf.com)
 * [Reversim Summit 2015](http://summit2015.reversim.com/wishes)
 
