@@ -6,6 +6,7 @@ tags: episode ios featured app store appstore localization l10n internationaliza
 duration: 58:34
 length: 56233819
 link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep15.mp3
+beer: "עמק האלה"
 ---
 
 השבוע דיברנו על אפליקציית פיאנומניה, שיוני מפתח, שהייתה פיצ׳רד באפ סטור ולאחר מכן על לוקליזציה של אפליקציות.
@@ -13,7 +14,7 @@ link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep15.mp3
 **הבירה** - עמק האלה  
 בירה ישראלית בסגנון אירופאי קלאסי.
 
-## לינקים         
+## לינקים
 
 * [iOS Language Cheat Sheet](http://david-smith.org/languages/)
 * [Making Your App World-Ready](https://developer.apple.com/wwdc/videos/?id=219)

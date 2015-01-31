@@ -2,10 +2,11 @@
 layout: post
 title:  "פרק שש - פונטים, autolayout וגינס"
 date:   2013-08-31 11:30:00
-tags: episode ios iphone font layouts 
+tags: episode ios iphone font layouts
 duration: 39:42
 length: 38120721
 link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep06.mp3
+beer: "גינס"
 ---
 
 השבוע דיברנו על כל מיני דברים שונים שנתקלנו בהם במהלך פיתוח אפליקציות  
@@ -14,7 +15,7 @@ link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep06.mp3
 איך הecosystem של גוגל בטלפון מתחיל להראות יותר ויותר כמו אפל  
 והמחיר של נקסוס ירד ל200$ בלבד!
 
-**הבירה** - גינס   
+**הבירה** - גינס
 אחת הבירות האהובות על חברי הפאנל
 מממממ…. גינס :)
 

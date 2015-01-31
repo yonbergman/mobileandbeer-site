@@ -6,6 +6,7 @@ tags: episode android l google io wear auto tv material design
 duration: 49:40
 length: 47678194
 link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep23.mp3
+beer: "קוזל"
 ---
 
 כל ההכרזות והחידוש מ-Google IO 2014.  

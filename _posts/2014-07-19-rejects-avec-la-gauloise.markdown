@@ -2,14 +2,15 @@
 layout: post
 title:  "פרק 24 - רקטות, ריג׳קטים וגולווז"
 date:   2014-07-19 09:00:00
-tags: episode ios rocket alert apple guidelines reject expedited 
+tags: episode ios rocket alert apple guidelines reject expedited
 duration: 50:04
 length: 48073584
 link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep24.mp3
+beer: "גולווז"
 ---
 
 
-     
+
 אביב מספר על בניית אפליקציית צבע אדום, ריג׳קטים, ואקספדייטד מול אפל  
 יוני מספר על חוויות מהiPhone Meetup  
 ויונתן נשאר בשקט רוב הפרק :)

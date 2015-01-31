@@ -6,6 +6,7 @@ tags: episode ios code analytics tracking
 duration: 50:35
 length: 48560506
 link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep12.mp3
+beer: "מרדסו"
 ---
 
 השבוע דיברנו על איך, מתי ולמה למדוד אנליטקיס באפליקציות מובייל שלכם.
@@ -14,7 +15,7 @@ link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep12.mp3
 בירה בלגית - מ-צ-ו-י-נ-ת  
 טעימה מאוד וחזקה, גרמה לפרק להיות מצחיק מכרגיל
 
-## לינקים         
+## לינקים
 
 ####חדשות
 * [וידאו באפ-סטור?](http://www.macstories.net/news/video-trailers-debut-on-the-app-store-with-clumsy-ninja/)

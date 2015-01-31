@@ -6,6 +6,7 @@ tags: episode apple ios android 2014
 duration: 34:33
 length: 33173756
 link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep31.mp3
+beer: "סנט. ברנרד קריסמטס אייל"
 
 ---
 

@@ -6,6 +6,7 @@ tags: episode ios storyboards code xcode xib nib
 duration: 46:00
 length: 44158978
 link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep09.mp3
+beer: "בזלת"
 ---
 
 לאחר מספר פרקי אקטואליה, הפעם ערכנו דיון לגבי היתרונות והחסרונות של כתיבת ממשק משתמש בסטוריבורדים ובקוד.

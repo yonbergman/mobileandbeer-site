@@ -6,6 +6,7 @@ tags: episode watchkit swift apple appstore ios
 duration: 56:55
 length: 54642649
 link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep30.mp3
+beer: "הוגארדן"
 
 ---
 

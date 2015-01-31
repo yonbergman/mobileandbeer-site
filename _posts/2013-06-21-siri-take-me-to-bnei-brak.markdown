@@ -6,6 +6,7 @@ tags: episode ios
 duration: 40:46
 length: 58709390
 link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep01.mp3
+beer: "גולדסטאר"
 ---
 
 גם אנחנו רוצים לדבר על iOS 7! העלינו נקודות מעניינות מהשינויים שקרו ושרצינו אבל לא קרו, ועל חלק מההשפעות של הדברים שהוכרזו ב-WWDC עלינו כמפתחים וכלקוחות אפל.

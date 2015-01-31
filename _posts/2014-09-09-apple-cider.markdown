@@ -2,17 +2,18 @@
 layout: post
 title:  "פרק 25 - סיידר תפוחים"
 date:   2014-09-09 20:00:00
-tags: episode ios apple iphone 6 plus watch pay 
+tags: episode ios apple iphone 6 plus watch pay
 duration: 55:23
 length: 53170596
 link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep25.mp3
+beer: "סיידר ווסטונז"
 ---
 
 
-אנחנו מסקרים את אירוע ההכרזה של אפל   
+אנחנו מסקרים את אירוע ההכרזה של אפל
 והחשיפה של האייפון 6, 6 פלוס, אפל פיי, אפל וואטץ׳ (שעון) והאלבום החדש של u2
 
-אנחנו גם מדברים טיפה על המפגש השני של הקבוצה המחודשת של מפתחי אייפון בת״א שעסק ב- Swift 
+אנחנו גם מדברים טיפה על המפגש השני של הקבוצה המחודשת של מפתחי אייפון בת״א שעסק ב- Swift
 
   **הסיידר** - Westons  
 סיידר תפוחים קליל ונחמד

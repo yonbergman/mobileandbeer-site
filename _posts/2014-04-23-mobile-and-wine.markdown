@@ -6,6 +6,7 @@ tags: episode ios android wwdc heartbleed
 duration: 49:27
 length: 47483843
 link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep19.mp3
+beer: "קברנה סובניון"
 ---
 
 פרק מיוחד וכשר לפסח!  
@@ -20,7 +21,7 @@ link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep19.mp3
 * עטיפת אתר מובייל לאפליקציה
 * ועוד דברים קטנים ומגניבים
 
-## לינקים         
+## לינקים
 
 * [Heartbleed XKCD](http://xkcd.com/1354/)
 * [Apps Solidify Leadership Six Years into the Mobile Revolution](http://blog.flurry.com/bid/109749/Apps-Solidify-Leadership-Six-Years-into-the-Mobile-Revolution)

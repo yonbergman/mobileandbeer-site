@@ -7,7 +7,11 @@ title: מובייל ובירה
   <h1>פרקים</h1>
   <ul class="posts">
     {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a>
+        {% if post.beer %}
+          <small>[{{ post.beer}}]</small>
+        {% endif %}
+      </li>
     {% endfor %}
   </ul>
   <div class='links'>

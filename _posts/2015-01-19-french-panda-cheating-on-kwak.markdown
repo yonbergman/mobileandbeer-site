@@ -6,7 +6,7 @@ tags: episode apple ios android
 duration: 51:52
 length: 49801845
 link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep32.mp3
-
+beer: "קוואק"
 ---
 
 פרק שבו אנחנו מדברים על חדשות וסיכומי שנה שיצאו ממספר אפליקציות שונות.  

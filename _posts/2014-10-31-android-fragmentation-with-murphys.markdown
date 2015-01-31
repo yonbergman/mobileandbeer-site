@@ -6,6 +6,7 @@ tags: episode android lollipop resolution auto layout fragmentation
 duration: 01:07:26
 length: 64736363
 link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep29.mp3
+beer: "מרפיס"
 ---
 
 בפרק הזה אירחנו את **שם מגנזי** מ-MyRoll כדי לשמוע איך מקומות רציניים מתמודדים עם פרגמנטציה באנדרואיד ועדיין ממשיכים להוציא עוד ועוד גרסאות שהמשתמשים אוהבים.

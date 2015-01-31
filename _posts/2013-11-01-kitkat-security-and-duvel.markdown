@@ -6,6 +6,7 @@ tags: episode ios ‎security skycure code duvel kitkat android
 duration: 50:20
 length: 48320180
 link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep10.mp3
+beer: "דובל"
 ---
 
   השבוע חזרנו לדבר טיפה על חדשות  
@@ -14,9 +15,9 @@ link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep10.mp3
 השבוע גם אירחנו את [יגאל קרייצ׳מן](https://twitter.com/ikreich) מחברת skycure שסיפר לנו על פרצת האבטחה שהחברה מצאה השבוע
 
 יוני סיפר לנו על מעלליו עם OSX server Continuous integration  
-ויונתן שיתף על ניסיונותיו להתאים עיצוב לשני גדלי אייפון שונים 
+ויונתן שיתף על ניסיונותיו להתאים עיצוב לשני גדלי אייפון שונים
 
-  **הבירה** - דובל   
+  **הבירה** - דובל
   בירה בלגית מאוד מיוחדת - נבחרה ע״י האורח שלנו יגאל :)
 
 ## לינקים
@@ -28,7 +29,7 @@ link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep10.mp3
 * [UIScrollView Keyboard Dismiss](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIScrollView_Class/Reference/UIScrollView.html#//apple_ref/occ/instp/UIScrollView/keyboardDismissMode)
 * [השאלה של אביב בנושא המקלדת](http://stackoverflow.com/questions/19652169/view-that-moves-along-with-keyboard)
 * [השאלה של יונתן לגבי ib וגדלי מסך](http://stackoverflow.com/questions/19658140/how-can-i-use-one-storyboard-for-4-and-3-5-iphone-screens-with-autolayout-ios)
- * [יום הקוד ריטריט העולמי השלישי](http://www.coderetreat.co.il) 
- 
+ * [יום הקוד ריטריט העולמי השלישי](http://www.coderetreat.co.il)
+
 
 לא לשכוח להקדיש 2 דקות לדרג אותנו ב- iTunes, לספר על הפודקאסט ל- 2 חברים שלכם, ולעקוב אחרינו בטוויטר!

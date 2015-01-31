@@ -6,6 +6,7 @@ tags: episode ios android wear xcode threes
 duration: 52:03
 length: 49974880
 link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep18.mp3
+beer: "ברבר"
 ---
 
 עדכונים: גרסאות חדשות, Android Wear, תמונות מזויפות של שעונים והגניבה של שלושים.
@@ -13,7 +14,7 @@ link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep18.mp3
   **הבירה** - ברבר
 בירה עם דבש. אתם צריכים לשמוע עוד?
 
-## לינקים         
+## לינקים
 
 * [Cocoa 64 bit guide](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/Cocoa64BitGuide/ConvertingExistingApp/ConvertingExistingApp.html)
 * [Moto 360](https://moto360.motorola.com)

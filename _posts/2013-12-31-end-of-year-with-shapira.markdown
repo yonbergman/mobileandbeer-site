@@ -6,6 +6,7 @@ tags: episode ios android endofyear 2013
 duration: 47:33
 length: 45646077
 link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep13.mp3
+beer: "שפירא"
 ---
 
    השבוע סיכמנו את שנת 2013 במובייל  
@@ -13,9 +14,9 @@ link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep13.mp3
 
   **הבירה** - שפירא  
 בירה ירושלמית נהדרת  
-שיוני והחברה שלו joytunes זכו בה בתחרות GameIS 
+שיוני והחברה שלו joytunes זכו בה בתחרות GameIS
 
-## לינקים         
+## לינקים
 
 * [IB inside Appcode](http://blog.jetbrains.com/objc/2013/12/ui-designer-plugin-for-appcode-is-available-in-early-preview/)
 * [ריצ׳רד ברטל מדבר על סוציאל גיימס](http://www.gamasutra.com/view/news/35551/Gamelab_2011_MUD_Creator_Bartle_Current_Social_Games_Are_Not_Fun.php)

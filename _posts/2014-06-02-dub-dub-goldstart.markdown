@@ -6,6 +6,7 @@ tags: episode ios wwdc
 duration: 63:10
 length: 60636601
 link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep21.mp3
+beer: "גולדסטאר - לא מסוננת"
 ---
 
 

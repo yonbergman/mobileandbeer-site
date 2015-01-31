@@ -6,6 +6,7 @@ tags: episode ios iphone-s iphone-c iphone apple samsung kitkat
 duration: 36:18
 length: 34845175
 link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep07.mp3
+beer: "פאבו"
 ---
 
 היום פרק סופר מיוחד  

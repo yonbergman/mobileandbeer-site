@@ -6,6 +6,7 @@ tags: episode ios push notifications apn android
 duration: 55:13
 length: 53007592
 link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep17.mp3
+beer: "רונן"
 ---
 
 הפאנל התכנס לדבר על נוטיפיקציות פוש ומה שביניהן.
@@ -13,7 +14,7 @@ link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep17.mp3
   **הבירה** - רונן
 בירה ישראלית מיוחדת לאנשים מיוחדים.
 
-## לינקים         
+## לינקים
 
 * [Parse](https://parse.com)
 * [Urban Airship](http://urbanairship.com)

@@ -6,6 +6,7 @@ tags: episode ios android games
 duration: 39:45
 length: 57223576
 link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer02.mp3
+beer: "טובורג"
 ---
 
 השבוע אנחנו מדברים על קרוספלטפורם או איך לכתוב פעם אחת ושהאפליקציה תרוץ בכמה פלטפורמות.
@@ -23,19 +24,19 @@ link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer02.mp3
 * [Titanium](http://www.appcelerator.com/platform/titanium-platform/ )
 * [Sencha Touch](http://www.sencha.com/products/touch)
 * [jQuery Mobile](http://jquerymobile.com/)
-* [Mono Touch (Xamarin)](http://xamarin.com/monotouch)    
+* [Mono Touch (Xamarin)](http://xamarin.com/monotouch)
 
 **משחקים**  
 
-* [Flash + Adobe Air](http://www.adobe.com/products/air.html )    
-* [Starling (sparrow for flash)](http://gamua.com/starling/)     
-* [cocos 2dx](http://www.cocos2d-x.org/) 
+* [Flash + Adobe Air](http://www.adobe.com/products/air.html )
+* [Starling (sparrow for flash)](http://gamua.com/starling/)
+* [cocos 2dx](http://www.cocos2d-x.org/)
 * [Unity 3D](http://unity3d.com/)  
-* [Marmalade](http://www.madewithmarmalade.com/) 
+* [Marmalade](http://www.madewithmarmalade.com/)
 
-**שאר דברים**   
+**שאר דברים**
 
 * [Joysofcode.com Programming GIFS](http://thejoysofcode.com/)  
-* [Rovio Accounts](http://www.rovio.com/en/news/blog/292/pick-up-your-game-where-you-left-off-%E2%80%93-across-devices/) 
+* [Rovio Accounts](http://www.rovio.com/en/news/blog/292/pick-up-your-game-where-you-left-off-%E2%80%93-across-devices/)
 * [Google Play Game Services](http://developer.android.com/google/play-services/games.html)  
 * [Feedly (Google Reader Alt.)](feedly.com)

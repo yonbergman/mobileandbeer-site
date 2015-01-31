@@ -6,6 +6,7 @@ tags: episode ios apple iphone 6 plus watch pay nexus player
 duration: 40:57
 length: 39310233
 link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep28.mp3
+beer: "אסטרלה דם"
 ---
 
 עדכונים על הכרזות המכשירים החדשים של גוגל ואפל, המשך חוויותיו של יוני על עבודה עם סוויפט ומישהו די הורס לעצמו את המחשב תוך כדי.

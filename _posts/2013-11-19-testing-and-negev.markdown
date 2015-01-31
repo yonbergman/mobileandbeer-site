@@ -6,6 +6,7 @@ tags: episode ios code android testing unittesting
 duration: 49:23
 length: 47415298
 link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep11.mp3
+beer: "נגב"
 ---
 
 השבוע ערכנו דיון קצר על כתיבת טסטים, טיפים והמלצות שלנו וכן סקירה של כלים מומלצים.

@@ -6,6 +6,7 @@ tags: episode ios android 2014
 duration: 48:12
 length: 46278867
 link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep14.mp3
+beer: "ניוקסל"
 ---
 
 השבוע אירחנו את טל ברזניצקי ודיברנו על תמיכה אחורה בגרסאות מערכות הפעלה.  
@@ -13,7 +14,7 @@ link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep14.mp3
 **הבירה** - ניו קסטל  
 אייל אנגלי כהה וטוב.
 
-## לינקים         
+## לינקים
 
 * [הפוסט של טל](http://berzniz.com/post/72083083450/ios-7-only-is-the-only-sane-thing-to-do)
 * [הטוויטר של טל](http://twitter.com/ketacode)

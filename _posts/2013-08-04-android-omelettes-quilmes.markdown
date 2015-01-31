@@ -6,6 +6,7 @@ tags: episode ios android chromecast devcenter appcenter
 duration: 38:37
 length: 55601655
 link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep04.mp3
+beer: "קילמס"
 ---
 
 השבוע אנחנו מדברים על אקטואליה מעולם המובייל.

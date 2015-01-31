@@ -2,10 +2,11 @@
 layout: post
 title:  "פרק 26 - ”זה פשוט לא כיף“"
 date:   2014-09-13 20:00:00
-tags: episode ios apple iphone 6 plus watch pay 
+tags: episode ios apple iphone 6 plus watch pay
 duration: 51:18
 length: 49247213
 link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep26.mp3
+beer: "מק שוף"
 ---
 
 פרק נוסף עם עדכונים ותגליות חדשות לגבי האייפונים החדשים, השעון החדש של אפל וכן חדשות נוספות מעולם המובייל.

@@ -2,10 +2,11 @@
 layout: post
 title:  "פרק 27 - ”הולכים לפטר אותי?“"
 date:   2014-10-12 20:00:00
-tags: episode ios apple iphone 6 plus watch pay 
+tags: episode ios apple iphone 6 plus watch pay
 duration: 50:29
 length: 48471481
 link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep27.mp3
+beer: "MTA"
 ---
 
 בפרק הזה, חוץ מעדכונים רבים, חלקנו חוויות מהתמיכה בעדכונים החדשים וההתרשמויות של יון מהאייפון 6 החדש שלו.

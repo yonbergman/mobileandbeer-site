@@ -6,6 +6,7 @@ tags: episode ios android learning
 duration: 43:54
 length: 63224603
 link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep03.mp3
+beer: "אלכסנדר"
 ---
 
 השבוע אנחנו מדברים על איך אנחנו למדנו לפתח למובייל: אילו משאבים מומלצים לפלטפורמות השונות ואיך אנחנו נשארים מעודכנים עם חדשות רלוונטיות.
@@ -42,7 +43,7 @@ link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep03.mp3
 * [jQuery Mobile Docs](http://view.jquerymobile.com/1.3.2/dist/demos/)
 * [Sencha Touch Docs](http://docs.sencha.com/touch)
 
-**שאר דברים**   
+**שאר דברים**
 
 * [Logic Pro X](http://www.apple.com/logic-pro/)
 * [Chat with Hodor](https://play.google.com/store/apps/details?id=app.hodor)

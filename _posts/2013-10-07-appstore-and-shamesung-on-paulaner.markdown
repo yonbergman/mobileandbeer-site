@@ -6,6 +6,7 @@ tags: episode ios iphone-s iphone-c iphone apple samsung galaxy gear ios7 note
 duration: 46:57
 length: 45070129
 link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep08.mp3
+beer: "פאולנר"
 ---
 
 לאחר חופשה קצרה אנחנו חוזרים לאוזניותיכם!

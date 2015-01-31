@@ -6,6 +6,7 @@ tags: episode ios news flappy bird threes
 duration: 36:25
 length: 34969727
 link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep16.mp3
+beer: "קרומבאכר"
 ---
 
 הרבה דברים קרו השבוע ולכן בעיקר דיברנו על חדשות.  
@@ -17,7 +18,7 @@ link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep16.mp3
   **הבירה** - קרומבאכר  
 בירת פילס גרמנית כמו שצריך.
 
-## לינקים         
+## לינקים
 
 * [Flappy Bird - High Score 999](http://www.youtube.com/watch?v=YHH2101OFfI)
 * [Threes (web version)](http://threes.meteor.com)
