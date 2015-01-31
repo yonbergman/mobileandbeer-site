@@ -6,7 +6,7 @@ tags: episode apple ios android
 duration: 53:32
 length: 51392598
 link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep33.mp3
-
+beer: "לף ברון"
 ---
 
 חדשות ועדכונים על אפל, מיקרוסופט, וואטסאפ וטמאגוצ׳ים.  
