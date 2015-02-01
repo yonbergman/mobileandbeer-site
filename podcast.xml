@@ -56,6 +56,8 @@ layout: nil
 
  <itunes:summary>{{ post.content | to_string }}</itunes:summary>
 
+ <description><![CDATA[{{ post.content | expand_urls: site.url | cdata_escape }}]]></description>
+
  <itunes:image href="http://www.mobileandbeer.com/images/itunes.jpg" />
 
  <enclosure url="{{ post.link }}" length="{{ post.length }}" type="audio/x-m4a" />
