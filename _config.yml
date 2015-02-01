@@ -1,3 +1,4 @@
 name: 'מובייל ובירה'
 pygments: true
 exclude: ["vendor"]
+url: 'http://www.mobileandbeer.com'
