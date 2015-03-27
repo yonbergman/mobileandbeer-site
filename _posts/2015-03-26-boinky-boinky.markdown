@@ -24,6 +24,9 @@ beer: "הרצל"
 * [TLV iOS Dev Meetup Talks (including Yoni's AppCode talk)](https://www.youtube.com/channel/UC_rzSNItkwmoiV3UiXMhpSQ)
 * [Increasing AppCode's memory limit](http://stackoverflow.com/questions/13578062/how-to-increase-ide-memory-limit-in-intellij-idea-on-mac/13581526#13581526)
 * [Apple drops need for Watch app submissions to have screenshots from real hardware](http://appleinsider.com/articles/15/03/16/apple-drops-need-for-watch-app-submissions-to-have-screenshots-from-real-hardware)
+* [Bezel](http://infinitapps.com/bezel/)
+* [WatchSim](http://www.dannykeogan.com/apps/WatchSim.html)
+* [Facebook Pop](https://github.com/facebook/pop)
 * [Enlight App](https://itunes.apple.com/il/app/enlight/id930026670?mt=8&uo=4&at=11lQcA)
 * [Mr Jump App](https://itunes.apple.com/il/app/mr-jump/id955157084?mt=8&uo=4&at=11lQcA)
 
