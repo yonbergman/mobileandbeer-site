@@ -23,14 +23,10 @@ beer: "רוטשילד"
 
 **לינקים**
 
-* [Swift Followup](http://codesheriff.blogspot.co.il/2015/05/importing-swift-code-from-objective-c.html)
-* [WWDC schedule](https://developer.apple.com/wwdc/schedule/)
-* [AltConf](http://altconf.com/schedule/)
-* [Layers Conference](http://www.bringyourlayers.com)
-* [Parties for WWDC app](https://itunes.apple.com/il/app/parties-for-wwdc/id879924066?mt=8)
-* [Alto's Adventure](https://geo.itunes.apple.com/il/app/altos-adventure/id950812012?mt=8&uo=6&at=11lQcA)
 * [How Not to Crash Series](http://inessential.com/2015/05/)
 * [little bites of cocoa](http://littlebitesofcocoa.com/)
+* [Alto's Adventure](https://geo.itunes.apple.com/il/app/altos-adventure/id950812012?mt=8&uo=6&at=11lQcA)
+* [Swift Followup](http://codesheriff.blogspot.co.il/2015/05/importing-swift-code-from-objective-c.html)
 
 
 ## Google IO
@@ -53,6 +49,10 @@ beer: "רוטשילד"
 
 ## iOS 9/WWDC rumors
 
+- [WWDC schedule](https://developer.apple.com/wwdc/schedule/)
+- [AltConf](http://altconf.com/schedule/)
+- [Layers Conference](http://www.bringyourlayers.com)
+- [Parties for WWDC app](https://itunes.apple.com/il/app/parties-for-wwdc/id879924066?mt=8)
 - [Apple’s ‘Proactive’ to take on Google Now with deep iOS 9 search, Augmented Reality Maps, Siri API](http://9to5mac.com/2015/05/27/apples-proactive-to-take-on-google-now-with-deep-ios-9-search-augmented-reality-maps-siri-api/)
 - [Apple to Preview Watch Developer Kit Next Month](https://recode.net/2015/05/27/apple-to-preview-watch-developer-kit-next-month/)
 - [Native Apple Watch rumours](http://www.macrumors.com/2015/05/27/apple-jeff-williams-native-apple-watch-apps-fall/)
