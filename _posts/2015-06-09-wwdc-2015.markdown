@@ -3,8 +3,8 @@ layout: post
 title:  "פרק 39 - WWDC 2015"
 date:   2015-06-09 15:00:00
 tags: episode apple ios watch watchos xcode el capitan ios9 ipad iphone
-duration: 01:20:45
-length: 77525079
+duration: 01:05:25
+length: 62804974
 link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep39.mp3
 beer: "טובורג חזקה"
 ---
@@ -12,7 +12,7 @@ beer: "טובורג חזקה"
 פרק מיוחד עם עדכונים מדאב דאב! יוני מצטרף אלינו הישר מסן פרנסיסקו ואנחנו מדברים על כל 
 החידושים, הדברים המגניבים, הדברים הממש משעממים וכמה כסף אביב הולך להפסיד.
 
-![WWDC Viewing Party](link-to-some-image-from-the-event)
+![](/images/wwdc-beers.jpg)
 
 תודה רבה לכל מי שהצטרף אלינו לצפייה, ברכות לזוכים בחולצות מובייל ובירה, ותודה מיוחדת לפייפאל על האירוח המדהים!
 
