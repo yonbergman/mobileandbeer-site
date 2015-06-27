@@ -9,7 +9,7 @@ link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep40.mp3
 beer: "נגב חריטון"
 ---
 
-עדכונים, המלצות דאב דאב וקטע מוזיקלי מיוחד!
+עדכונים, המלצות דאב דאב, יוני מסכם שבועיים עם השעון וקטע מוזיקלי מיוחד!
 
 **הבירה** - נגב חריטון  
 בירה שקרויה על שם נזיר מתבודד מלפני 1700 שנים שחי במערות. לפי האגדה הוא תכנת רק ב-Vim.
@@ -21,6 +21,7 @@ beer: "נגב חריטון"
 - [iOS updates delete apps temporarily if there's no space](https://mobile.twitter.com/Kaleb_Butt/status/613403921512411136)
 - [watchOS 2 beta accidentally pushed to all users](https://twitter.com/stroughtonsmith/status/613394152290697216)
 - [libextobjc](https://github.com/jspahrsummers/libextobjc)
+- [OAStackView - UIStackView for iOS7+](https://github.com/oarrabi/OAStackView)
 - [Realm](https://realm.io) videos: [Debugging in Swift: How Hard Can It Be](https://realm.io/news/swift-summit-carola-nitz-debugging/)
 - [ASCIIwwdc](http://asciiwwdc.com)
 - [PaintCode](http://www.paintcodeapp.com)
