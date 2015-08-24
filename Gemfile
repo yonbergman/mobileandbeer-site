@@ -6,4 +6,4 @@ gem 'jekyll-haml'
 gem 'rack-jekyll'
 gem 'powder'
 
-
+gem 'github-pages'
