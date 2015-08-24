@@ -1,4 +1,6 @@
 name: 'מובייל ובירה'
-pygments: true
+highlighter: "pygments"
 exclude: ["vendor"]
 url: 'http://www.mobileandbeer.com'
+# sass:
+  # style: :compressed

@@ -1,7 +1,11 @@
-@import 'syntax.css';
-@import 'main.css';
+---
+---
+
+@import 'syntax.scss';
+@import 'main.scss';
 
 @import url(http://fonts.googleapis.com/earlyaccess/alefhebrew.css);
+
 @mixin mobile {
   @media screen and (max-width: 700px) {
     @content;
@@ -16,7 +20,7 @@ body{
 }
 
 .site{
-  @include mobile{
+  @include mobile {
     width: 300px;
     font-size: 100%;
   }
