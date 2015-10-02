@@ -14,6 +14,9 @@ beer: "דנסינג קמל"
 **הבירה** - דנסינג קמל  
 סך הכל בירה מאוד מאוד איכותית לבירה ישראלית. כן, ככה יוני תיאר את זה.
 
+<img src="/images/mobile-and-teletubbies.png" alt="this is weird" width="640" />
+
+
 **לינקים**
 
 - [XcodeGhost](http://www.macrumors.com/2015/09/20/xcodeghost-chinese-malware-faq/)
