@@ -23,6 +23,7 @@ beer: "קצרה"
 - [Pragmatic App Pricing - Marco Arment](http://www.marco.org/2015/10/13/pragmatic-pricing)
 - [iOS 9.1 Released](https://www.macstories.net/news/apple-releases-ios-9-1-with-over-150-new-emoji-smarter-live-photos/)
 - [iOS 9.1 Emoji Changelog](http://blog.emojipedia.org/ios-9-1-emoji-changelog/)
+- [Tailor - Static Swift Analyzer](http://tailor.sh)
 - [Discoverability on AppleTV App Store](https://twitter.com/jamesthomson/status/660855103130353664)
 - [Swift 2.1](http://www.russbishop.net/swift-2-1)
 - [Twitter Adds 8 Services to Fabric](http://techcrunch.com/2015/10/21/twitter-adds-8-new-services-to-its-fabric-platform-which-is-used-by-225000-developers/)
