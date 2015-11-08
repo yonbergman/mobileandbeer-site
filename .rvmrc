@@ -1,1 +1,1 @@
-rvm use --create 1.9.3-p392@mobileandbeer
+rvm use --create 2.0.0@mobileandbeer
