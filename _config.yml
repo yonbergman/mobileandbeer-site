@@ -1,4 +1,4 @@
 name: 'מובייל ובירה'
 exclude: ["vendor", "Gemfile*", "Procfile", "config.ru", "deploy"]
-highlighter: "pygments"
+highlighter: "rouge"
 url: 'http://www.mobileandbeer.com'
