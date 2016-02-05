@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "פרק 47 - אביב מתבכיין על דברים"
-date:   2016-02-05 15:00:00
+date:   2016-02-05 00:00:00
 tags: episode apple ios xcode iphone swift 3d touch carthage cocoapods parse
 duration: 1:13:48
 length: 70853196
