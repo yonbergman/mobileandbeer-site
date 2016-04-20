@@ -14,15 +14,17 @@ beer: "Dark Matter"
 **הבירה** - Dark Matter  
 בירת IPA ישראלית ששונה מכל דבר אחר.
 
+**סדר הנושאים**
+
 יוני הזכיר את [האתר](http://mobileandbeer.com), [הפייסבוק](http://facebook.com/mobileandbeer), [הטוויטר](http://twitter.com/mobileandbeer), ה-[iTunes](https://itunes.apple.com/us/podcast/mwbyyl-wbyrh/id666362146?mt=2) וה-[overcast](https://overcast.fm/itunes666362146) שלנו.
 
 - יוני המשיך מפרק קודם ו[גילה איך](https://twitter.com/Oztune/status/710580316868624388) AppFigures עושים לוגין אוטומטי מספארי
 
-- יון דיבר על [האפשרות שסוויפט תגיע לאנדרואיד](http://thenextweb.com/dd/2016/04/07/google-facebook-uber-swift/)
-
 - אביב דיבר על הדיווחים ש[אפל שוקלת להוסיף פרסומות בתשלום](http://www.macrumors.com/2016/04/14/apple-secret-app-store-team-paid-search/) לחיפושים באפסטור
 
 - יוני דיבר על [WWDC 2016](https://developer.apple.com/wwdc/), נתן קצת טיפים והבטיח פרק טיפים מפורט בעתיד (*yawn*)
+
+- יון דיבר על [האפשרות שסוויפט תגיע לאנדרואיד](http://thenextweb.com/dd/2016/04/07/google-facebook-uber-swift/)
 
 - יוני סיפר לנו על הריג׳קשן **המשולש** שלהם
 
