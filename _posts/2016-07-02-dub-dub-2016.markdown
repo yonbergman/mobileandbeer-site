@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "פרק 52 - דאב דאב 2016"
+date:   2016-07-02 00:00:00
+tags: episode apple ios xcode iphone swift wwdc
+duration: 42:13
+length: 40537779
+link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep52.mp3
+beer: "Rogue Ales Hazelnut Brown Nectar"
+---
+
+סופסוף ישבנו ודיברנו על הדברים שאנחנו מתלהבים מהם שהוכרזו בדאב דאב האחרון.
+
+**הבירה** - Rogue Ales Hazelnut Brown Nectar  
+בירה עם אגוזי לוז בפנים וגם, כאילו, הרכיבים הרגילים.
+
+- CallKit and SiriKit oh my! (if you're doing VOIP at least...)
+- [Notifications improvements](http://fichek.com/blog/wwdc16-notifications/)
+- Memory debugger cool but [requires Swift 3](http://stackoverflow.com/a/37828255)
+- Application Transport Security יחייב הריגה של כמעט כל ה-HTTP עד סוף השנה
+- קיבלנו אישור רשמי לכך שזמני ה-review מתקצרים
+- שינויים ביכולות למכור מנויים - subscriptions:
+  - [Apple](http://www.theverge.com/2016/6/8/11880730/apple-app-store-subscription-update-phil-schiller-interview)
+  - [Google](http://www.recode.net/2016/6/8/11889298/google-apple-subscription-app-revenue-share)
+- Widgets, Widgets everywhere
+- [Swift 3](http://swift.ayaka.me/posts/2016/6/18/favorite-swift-30-features)
+- [The Talk Show Live](http://daringfireball.net/thetalkshow/2016/06/17/ep-158)
+
+תנו לנו בלייק/בדירוג: [פייסבוק](http://facebook.com/mobileandbeer), [טוויטר](http://twitter.com/mobileandbeer), [iTunes](https://itunes.apple.com/us/podcast/mwbyyl-wbyrh/id666362146?mt=2) וה-[overcast](https://overcast.fm/itunes666362146) שלנו.
