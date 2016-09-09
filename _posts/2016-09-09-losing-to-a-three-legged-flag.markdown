@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "פרק 53 - הפסדנו לדגל תלת-רגלי"
-date:   2016-07-02 00:00:00
+date:   2016-09-09 00:00:00
 tags: episode apple ios xcode iphone wwdc EarPods AirPods watch
 duration: 01:08:24
 length: 65675935
