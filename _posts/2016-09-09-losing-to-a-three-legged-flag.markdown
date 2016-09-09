@@ -7,6 +7,8 @@ duration: 01:08:24
 length: 65675935
 link: https://s3.amazonaws.com/MobileAndBeer/MobileAndBeer_Ep53.mp3
 beer: "מרינדו"
+alias: '/2016/07/02/losing-to-a-three-legged-flag.html'
+
 ---
 
 לאחר הפסקת קיץ אנחנו שמחים לחזור לעונה 4 של מובייל ובירה ולדבר על הדרכים החדשות שבהן אפל ינסו לקחת לנו כסף!
